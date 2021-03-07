@@ -1,0 +1,24 @@
+body {
+    background-image: url('videos and images/background.jpg');
+    /* font-family: 'Monoton', cursive; */
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#txt-1 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
+#wish {
+    margin-top: 309px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
